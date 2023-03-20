@@ -1,12 +1,12 @@
 {
-    "name": "evernote/evernote-cloud-sdk-php",
+    "name": "yoshiki-hoge/evernote-cloud-sdk-php",
     "description": "Evernote Cloud SDK for PHP",
     "keywords": [
         "evernote",
         "api",
         "sdk"
     ],
-    "homepage": "https://github.com/evernote/evernote-cloud-sdk-php",
+    "homepage": "https://github.com/yoshiki-hoge/evernote-cloud-sdk-php",
     "version": "3.0.0",
     "license": "Apache",
     "authors": [
@@ -18,8 +18,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/evernote/evernote-cloud-sdk-php/issues",
-        "forum": "https://discussion.evernote.com/forum/61-evernote-for-developers/"
+        "issues": "https://github.com/yoshiki-hoge/evernote-cloud-sdk-php/issues",
     },
     "require": {
         "php": ">=8.0",
