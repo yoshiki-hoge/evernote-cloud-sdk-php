@@ -18,7 +18,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/yoshiki-hoge/evernote-cloud-sdk-php/issues",
+        "issues": "https://github.com/yoshiki-hoge/evernote-cloud-sdk-php/issues"
     },
     "require": {
         "php": ">=8.0",
